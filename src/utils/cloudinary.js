@@ -26,4 +26,4 @@ const uploadOnCloud = async () => {
   }
 };
 
-export {  };
+export { uploadOnCloud };
